@@ -5,3 +5,4 @@ provider "aws" {
 
 resource "aws_s3_bucket" "tf_course_2"{
   bucket = "tf-course-30032022"
+}
